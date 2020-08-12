@@ -1,13 +1,12 @@
-package cn.fan.gulimall;
+package cn.fan.gulimall.warehousing;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GulimallProductApplicationTests {
+class GulimallWarehousingApplicationTests {
 
     @Test
     void contextLoads() {
     }
-
 }
